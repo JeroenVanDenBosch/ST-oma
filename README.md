@@ -2,5 +2,5 @@
 - 👀 Powershell
 - 🌱 Javascript
 - 💞️ -
-- 📫 Jeroen.van.den.bosch@legrogroup.com
+- 📫 Jbosch02@gmail.com
 
